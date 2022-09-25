@@ -110,6 +110,7 @@ textarea {
 
 textarea {
   height: 20vh;
+  resize: none;
 }
 
 input:focus,
